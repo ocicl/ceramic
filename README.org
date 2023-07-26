@@ -1,0 +1,10 @@
+* ceramic
+
+Desktop web apps with Common Lisp
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/ceramic/ceramic.git   |
+| commit  | 5d81e2b  |
+| systems | ceramic |
+|---------+-------------------------------------------|
+
